@@ -23,16 +23,17 @@
 - 💻 Passionate about building practical projects
 - 📊 Interested in Data Analytics and Big Data
 - 🚀 Always learning and improving
-- 🤝 Open to collaboration
+- 🤝 Open to collaboration on interesting projects
 
 ---
 
 ## 🛠 Skills
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SPSS-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
@@ -42,17 +43,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhilashabhi6798-wq&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhilashabhi6798-wq&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashabhi6798-wq&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashabhi6798-wq&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilashabhi6798-wq&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=abhilashabhi6798-wq&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -69,7 +70,7 @@ Distributed data processing and analytics using Hadoop and Spark.
 
 ### 📊 Marketing Campaign Analysis - Power BI
 
-Interactive Power BI dashboard for marketing campaign performance analysis.
+Interactive Power BI dashboard for analyzing marketing campaign performance.
 
 🔗 https://github.com/abhilashabhi6798-wq/Marketing-Campaign-Analysis-PowerBI
 
@@ -96,6 +97,10 @@ Interactive Power BI dashboard for marketing campaign performance analysis.
 </p>
 
 ---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abhilashabhi6798-wq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
