@@ -1,0 +1,20 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg1)"/>
+  <circle cx="80" cy="60" r="2" fill="#ffffff" opacity="0.7"/>
+  <circle cx="180" cy="40" r="1.5" fill="#ffffff" opacity="0.5"/>
+  <circle cx="1100" cy="50" r="2" fill="#ffffff" opacity="0.6"/>
+  <circle cx="950" cy="220" r="1.5" fill="#ffffff" opacity="0.4"/>
+  <circle cx="60" cy="240" r="2" fill="#ffffff" opacity="0.5"/>
+  <text x="120" y="170" font-family="Consolas, Menlo, monospace" font-size="60" fill="#7dd3fc" opacity="0.35">&lt;/&gt;</text>
+  <text x="1000" y="170" font-family="Consolas, Menlo, monospace" font-size="60" fill="#c4b5fd" opacity="0.35">{ }</text>
+  <text x="600" y="140" font-family="Verdana, sans-serif" font-size="46" font-weight="bold" fill="#a5b4fc" text-anchor="middle" letter-spacing="2">Welcome to my GitHub</text>
+  <text x="600" y="180" font-family="Verdana, sans-serif" font-size="18" fill="#e0e7ff" text-anchor="middle" opacity="0.85">Building things, one commit at a time ✨</text>
+  <line x1="500" y1="200" x2="700" y2="200" stroke="#a5b4fc" stroke-width="2" opacity="0.6"/>
+</svg>
