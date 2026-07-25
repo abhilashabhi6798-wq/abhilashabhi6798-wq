@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner1_nightcode.svg" width="100%" alt="GitHub Profile Banner">
+</p>
+
+<br>
+
 <h1 align="center">Hi 👋, I'm Abhilash M K</h1>
 <h3 align="center">Building practical projects and learning every day.</h3>
 
